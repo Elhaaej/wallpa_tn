@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.ibb.co/RhZNCNW/pexels-iriser-673857.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/HVbRST2/pexels-jmark-250591.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/B31C0hL/pexels-jonaskakaroto-736230.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/VBR2sZt/pexels-nietjuh-1883385.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/0rgwzy0/pexels-pixabay-459335.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/VwxvYGr/pexels-secret-garden-333350-931177.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/Yhc0J5D/pexels-unchalee-srirugsar-14114-85773.jpg"
+    }
+  ],
+  "CategorieATitle": [
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    }
+  ]
+}
