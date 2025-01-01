@@ -1,0 +1,44 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.ibb.co/LnsrrLL/pexels-arthurbrognoli-2260933.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/9YdwqSv/pexels-caio-772571.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/cTYZRL9/pexels-fotios-photos-2047420.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/jbFXHp7/pexels-ionelceban-3194327.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/0cKq91P/pexels-katlovessteve-551622.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/7vwL7jk/pexels-simon73-1353126.jpg"
+    }
+  ],
+  "CategorieATitle": [
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    }
+  ]
+}
