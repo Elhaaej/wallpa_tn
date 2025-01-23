@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.ibb.co/SwD8qRS/pexels-bubi-2867769.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/tHZDXGS/pexels-davidmceachan-91409.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/NFQFLxZ/pexels-senuscape-728360-1718258.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/T2QfL34/pexels-shafeequdeen-stm-1916304-3540894.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/1LBWRsv/pexels-stephanlouis-5381500.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/XzmP1kP/pexels-taryn-elliott-3889891.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/6HPydd1/pexels-taryn-elliott-3889895.jpg"
+    }
+  ],
+  "CategorieATitle": [
+    {
+      "TitleimgA": "Image 1"
+    },
+    {
+      "TitleimgA": "Image 2"
+    },
+    {
+      "TitleimgA": "Image 3"
+    },
+    {
+      "TitleimgA": "Image 4"
+    },
+    {
+      "TitleimgA": "Image 5"
+    },
+    {
+      "TitleimgA": "Image 6"
+    },
+    {
+      "TitleimgA": "Image 7"
+    }
+  ]
+}
