@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.ibb.co/TM3c7tsZ/pexels-rasmussvinding-35441.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/wZmH94BV/pexels-pixabay-158330.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/sp55sPGG/pexels-frans-van-heerden-201846-632452.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/0p7hPkm5/pexels-frank-cone-140140-3908080.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/kVPL0RqW/pexels-frank-cone-140140-2669797.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/DgrmHj1f/pexels-francesco-ungaro-1344693.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/GQ6VKbCy/pexels-flickr-145962.jpg"
+    }
+  ],
+  "CategorieATitle": [
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    }
+  ]
+}
