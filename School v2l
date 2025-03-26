@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie F",
+  "CategorieF": [
+    {
+      "urlimgF": "https://i.ibb.co/qL0h4ddd/pexels-pixabay-261651.jpg"
+    },
+    {
+      "urlimgF": "https://i.ibb.co/NdkhVbxS/pexels-nicole-berro-991141-2393789.jpg"
+    },
+    {
+      "urlimgF": "https://i.ibb.co/Y74zksnD/pexels-max-fischer-5212667.jpg"
+    },
+    {
+      "urlimgF": "https://i.ibb.co/0RDZbyxF/pexels-markusspiske-131773.jpg"
+    },
+    {
+      "urlimgF": "https://i.ibb.co/gZz7DB2P/pexels-jessbaileydesign-1764436.jpg"
+    },
+    {
+      "urlimgF": "https://i.ibb.co/84M265tM/pexels-didsss-2675061.jpg"
+    },
+    {
+      "urlimgF": "https://i.ibb.co/DDJCVCPJ/pexels-ann-h-45017-1762851.jpg"
+    }
+  ],
+  "CategorieFTitle": [
+    {
+      "TitleimgF": "  "
+    },
+    {
+      "TitleimgF": "  "
+    },
+    {
+      "TitleimgF": "  "
+    },
+    {
+      "TitleimgF": "  "
+    },
+    {
+      "TitleimgF": "  "
+    },
+    {
+      "TitleimgF": "  "
+    },
+    {
+      "TitleimgF": "  "
+    }
+  ]
+}
