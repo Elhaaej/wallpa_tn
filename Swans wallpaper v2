@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie G",
+  "CategorieG": [
+    {
+      "urlimgG": "https://i.ibb.co/YTTjwkPF/pexels-anntarazevich-6796840.jpg"
+    },
+    {
+      "urlimgG": "https://i.ibb.co/F40tFB6W/pexels-aysenaz-bilgin-421884106-18053374.jpg"
+    },
+    {
+      "urlimgG": "https://i.ibb.co/TQs7sB8/pexels-ezgi-kaya-498261122-30547386.jpg"
+    },
+    {
+      "urlimgG": "https://i.ibb.co/WN0g9xpx/pexels-hellochemo-1837167.jpg"
+    },
+    {
+      "urlimgG": "https://i.ibb.co/hRrndQNr/pexels-olga-shenderova-67505314-8537306.jpg"
+    },
+    {
+      "urlimgG": "https://i.ibb.co/k23bbTBT/pexels-rambe-ioana-211953981-31416976.jpg"
+    },
+    {
+      "urlimgG": "https://i.ibb.co/Lzvkks6S/pexels-reggie-pankova-145490218-11155273.jpg"
+    }
+  ],
+  "CategorieGTitle": [
+    {
+      "TitleimgG": "  "
+    },
+    {
+      "TitleimgG": "  "
+    },
+    {
+      "TitleimgG": "  "
+    },
+    {
+      "TitleimgG": "  "
+    },
+    {
+      "TitleimgG": "  "
+    },
+    {
+      "TitleimgG": "  "
+    },
+    {
+      "TitleimgG": "  "
+    }
+  ]
+}
