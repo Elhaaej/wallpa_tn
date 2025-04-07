@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie I",
+  "CategorieI": [
+    {
+      "urlimgI": "https://i.ibb.co/KpTwb8Tt/pexels-thomas-parker-1272388137-30209466.jpg"
+    },
+    {
+      "urlimgI": "https://i.ibb.co/jv61X6Yv/pexels-skyler-ewing-266953-12204630.jpg"
+    },
+    {
+      "urlimgI": "https://i.ibb.co/1YJgX2q4/pexels-skyler-ewing-266953-11630881.jpg"
+    },
+    {
+      "urlimgI": "https://i.ibb.co/FbYZhXcN/pexels-skyler-ewing-266953-7476037.jpg"
+    },
+    {
+      "urlimgI": "https://i.ibb.co/jv4qf7t5/pexels-skyler-ewing-266953-6675030.jpg"
+    },
+    {
+      "urlimgI": "https://i.ibb.co/CpD7436p/pexels-ninobur-13766679.jpg"
+    },
+    {
+      "urlimgI": "https://i.ibb.co/Z16jTcZz/pexels-ebubekir-togaci-2055472288-29221189.jpg"
+    }
+  ],
+  "CategorieITitle": [
+    {
+      "TitleimgI": "Image 1"
+    },
+    {
+      "TitleimgI": "Image 2"
+    },
+    {
+      "TitleimgI": "Image 3"
+    },
+    {
+      "TitleimgI": "Image 4"
+    },
+    {
+      "TitleimgI": "Image 5"
+    },
+    {
+      "TitleimgI": "Image 6"
+    },
+    {
+      "TitleimgI": "Image 7"
+    }
+  ]
+}
