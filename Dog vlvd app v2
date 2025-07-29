@@ -1,0 +1,20 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    { "urlimgA": "https://i.ibb.co/Xx3hCBJP/pexels-bertellifotografia-1906153.jpg" },
+    { "urlimgA": "https://i.ibb.co/ksqw7CCp/pexels-charlesdeluvio-1851164.jpg" },
+    { "urlimgA": "https://i.ibb.co/ymzR0z6q/pexels-kasuma-933498.jpg" },
+    { "urlimgA": "https://i.ibb.co/vxJJLZ0R/pexels-lucasandrade-4681107.jpg" },
+    { "urlimgA": "https://i.ibb.co/21jD50gj/pexels-valeriya-1805164.jpg" },
+    { "urlimgA": "https://i.ibb.co/sJVBMPSZ/pexels-pixabay-220938.jpg" }
+  ],
+  "CategorieATitle": [
+    { "TitleimgA": " " },
+    { "TitleimgA": " " },
+    { "TitleimgA": " " },
+    { "TitleimgA": " " },
+    { "TitleimgA": " " },
+    { "TitleimgA": " " }
+  ]
+}
